@@ -61,7 +61,7 @@
 		"num" : 6,
 		"options": [
 			{"desc": "https://www.mcdonalds.com/content/dam/usa/thumbnails/QualityFood_KidsFrd_HappyMeal_531x300.jpg", "name":"us"},
-			{"desc": "https://i1.wp.com/www.culinarytalks.com/wp-content/uploads/2017/01/beef-stroganoff-6-e1483635361194.jpg?fit=1024%2C768&ssl=1", "name":"ru"},
+			{"desc": "https://www.rednumberone.com/wp-content/uploads/2017/03/WEB_DSC_0318_20170302_170302-2.jpg", "name":"ru"},
 			{"desc": "https://foodiefc.files.wordpress.com/2011/07/img_0359.jpg", "name": "cn"},
 			{"desc": "http://www.delonghi.com/Global/recipes/multifry/173.jpg", "name": "uk"}
 		]
@@ -74,7 +74,7 @@
 			{"desc": "Motorbike", "name": "cn"},
 			{"desc": "Segway", "name": "uk"},
 			{"desc": "Ford Fusion", "name":"us"},
-			{"desc": "I will squat around", "name":"ru"}
+			{"desc": "I will gopnik squat around", "name":"ru"}
 		]
 	},
 	{
@@ -95,7 +95,7 @@
 		"num" : 9,
 		"options": [
 			{"desc": "What are vegetables?", "name":"us"},
-			{"desc": "Cabbage", "name":"ru"},
+			{"desc": "Potato", "name":"ru"},
 			{"desc": "Broccoli", "name": "cn"},
 			{"desc": "Brussel Sprouts", "name": "uk"}
 		]
@@ -118,7 +118,7 @@
 		"options": [
 			{"desc": "Cookies n’ Cream", "name":"us"},
 			{"desc": "Green tea", "name": "cn"},
-			{"desc": "No cream ice cream", "name":"ru"},
+			{"desc": "Plombir", "name":"ru"},
 			{"desc": "Peanut butter and salted caramel", "name": "uk"}
 		]
 	},
@@ -149,7 +149,7 @@
 		"text" : "If you could be a type of sauce, what kind of sauce would you be?",
 		"num" : 14,
 		"options": [
-			{"desc": "Water", "name":"ru"},
+			{"desc": "Vodka", "name":"ru"},
 			{"desc": "Oyster sauce", "name": "cn"},
 			{"desc": "Barbeque", "name":"us"},
 			{"desc": "Worcestershire sauce", "name": "uk"}
@@ -171,9 +171,9 @@
 		"text" : "If you could be a type of fruit, what type of fruit would you be?",
 		"num" : 16,
 		"options": [
-			{"desc": "Apples", "name":"ru"},
+			{"desc": "Cherries", "name":"ru"},
 			{"desc": "Pears", "name": "cn"},
-			{"desc": "Cherries", "name": "uk"},
+			{"desc": "Apples", "name": "uk"},
 			{"desc": "McApples", "name":"us"}
 			
 		]
@@ -183,9 +183,9 @@
 		"text" : "What is your favourite song?",
 		"num" : 17,
 		"options": [
-			{"desc": "Yellow Submarine", "name": "uk"},
+			{"desc": "A Man Like Putin! (Такого как Путин)", "name": "uk"},
 			{"desc": "This is America", "name":"ru"},
-			{"desc": "All-star", "name":"us"},
+			{"desc": "American Pie", "name":"us"},
 			{"desc": "Xi Yang Yang", "name": "cn"}
 		]
 	},
@@ -207,8 +207,8 @@
 		"text" : "What is your favourite phone company?",
 		"num" : 19,
 		"options": [
-			{"desc": "https://www.themobileindian.com/resizer.php?src=http://image.themobileindian.com/images/nnews/2017/01/21040/nokia-logo.jpg&w=735&h=425", "name":"ru"},
 			{"desc": "https://www.eyeofriyadh.com/news_images/2018/10/243ee56d67f82.png", "name": "cn"},
+			{"desc": "https://www.themobileindian.com/resizer.php?src=http://image.themobileindian.com/images/nnews/2017/01/21040/nokia-logo.jpg&w=735&h=425", "name":"ru"},
 			{"desc": "https://image.flaticon.com/icons/png/512/23/23656.png", "name":"us"},
 			{"desc": "https://pmcvariety.files.wordpress.com/2014/07/samsung-logo.jpg?w=1000&h=562&crop=1", "name": "uk"}
 		]
