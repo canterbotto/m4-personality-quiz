@@ -8,4 +8,4 @@ import * as serviceWorker from './serviceWorker';
 ReactDOM.render(<Quiz />, document.getElementById('root'));
 
 // Uses Service Worker
-serviceWorker.register();
+serviceWorker.unregister();

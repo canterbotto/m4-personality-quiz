@@ -79,7 +79,7 @@ class VoteBox extends Component
     }
 
     render() {
-        shuffleArray(this.props.options);
+        // shuffleArray(this.props.options); REMOVED AND DONE MANUALLY IN JSON
         this.options = [];
         return (
             <div>
@@ -129,7 +129,7 @@ class Quiz extends Component
             us: 0,
             ru: 0,
             cn: 0,
-            nk: 0
+            uk: 0
         }
         this.QUESTIONS = questions.length;
         shuffleArray(questions);
@@ -152,13 +152,13 @@ class Quiz extends Component
         )
         else
         {
-            let {us, ru, cn, nk} = this.scores;
+            let {us, ru, cn, uk} = this.scores;
             return (
                 <div className="container">
                     <h3>Russian: {ru} / {this.QUESTIONS-1}</h3>
                     <h3>American: {us} / {this.QUESTIONS-1}</h3>
                     <h3>Chinese: {cn} / {this.QUESTIONS-1}</h3>
-                    <h3>North Korean: {nk} / {this.QUESTIONS-1}</h3>
+                    <h3>British/UK: {uk} / {this.QUESTIONS-1}</h3>
                 </div>
             )
         }

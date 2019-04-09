@@ -4,10 +4,10 @@
 		"text" : "What is your favorite sport?",
 		"num" : 1,
 		"options": [
-			{"desc": "Hockey", "name":"ru"},
 			{"desc": "Ping Pong", "name": "cn"},
+			{"desc": "Track and Field", "name": "uk"},
 			{"desc": "Football", "name":"us"},
-			{"desc": "Track and Field", "name": "uk"}
+			{"desc": "Hockey", "name":"ru"}
 		]
 	},
 	{
@@ -15,10 +15,10 @@
 		"text" : "Which symbol appeals to you the most?",
 		"num" : 2,
 		"options": [
+			{"desc": "https://5.imimg.com/data5/RY/ET/MY-22645976/natural-tea-leaf-500x500.jpg", "name": "uk"},
 			{"desc": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Hammer_and_sickle.svg/550px-Hammer_and_sickle.svg.png", "name":"ru"},
 			{"desc": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Yin_yang.svg/260px-Yin_yang.svg.png", "name": "cn"},
-			{"desc": "https://banner2.kisspng.com/20180802/kqq/kisspng-logo-i-m-lovin-it-mcdonald-s-i%E2%80%99m-lovin%E2%80%99-it-br-mcdonalds-logo-png-exclusive-clipart-5b6310d3420014.0837335215332190272704.jpg", "name":"us"},
-			{"desc": "https://5.imimg.com/data5/RY/ET/MY-22645976/natural-tea-leaf-500x500.jpg", "name": "uk"}
+			{"desc": "https://banner2.kisspng.com/20180802/kqq/kisspng-logo-i-m-lovin-it-mcdonald-s-i%E2%80%99m-lovin%E2%80%99-it-br-mcdonalds-logo-png-exclusive-clipart-5b6310d3420014.0837335215332190272704.jpg", "name":"us"}
 		]
 	},
 	{
@@ -26,9 +26,9 @@
 		"text" : "What will you put on your hot dog?",
 		"num" : 3,
 		"options": [
+			{"desc": "Another hot dog", "name":"us"},
 			{"desc": "What is a hot dog? I only know cold dog", "name":"ru"},
 			{"desc": "Ketchup", "name": "cn"},
-			{"desc": "Another hot dog", "name":"us"},
 			{"desc": "Relish", "name": "uk"}
 		]
 	},
@@ -48,10 +48,11 @@
 		"text" : "If you were to be stranded on island, which island would you want to be stranded on?",
 		"num" : 5,
 		"options": [
-			{"desc": "Faroe Islands", "name":"ru"},
+			{"desc": "Eurasiafrica", "name": "uk"},
 			{"desc": "Japan", "name": "cn"},
-			{"desc": "Cuba", "name":"us"},
-			{"desc": "Eurasiafrica", "name": "uk"}
+			{"desc": "Faroe Islands", "name":"ru"},
+			{"desc": "Cuba", "name":"us"}
+			
 		]
 	},
 	{
@@ -59,9 +60,9 @@
 		"text" : "What would you want your last meal to be?",
 		"num" : 6,
 		"options": [
+			{"desc": "https://www.mcdonalds.com/content/dam/usa/thumbnails/QualityFood_KidsFrd_HappyMeal_531x300.jpg", "name":"us"},
 			{"desc": "https://i1.wp.com/www.culinarytalks.com/wp-content/uploads/2017/01/beef-stroganoff-6-e1483635361194.jpg?fit=1024%2C768&ssl=1", "name":"ru"},
 			{"desc": "https://foodiefc.files.wordpress.com/2011/07/img_0359.jpg", "name": "cn"},
-			{"desc": "https://www.mcdonalds.com/content/dam/usa/thumbnails/QualityFood_KidsFrd_HappyMeal_531x300.jpg", "name":"us"},
 			{"desc": "http://www.delonghi.com/Global/recipes/multifry/173.jpg", "name": "uk"}
 		]
 	},
@@ -70,10 +71,10 @@
 		"text" : "How will you get around when you grow up?",
 		"num" : 7,
 		"options": [
-			{"desc": "I will squat around", "name":"ru"},
 			{"desc": "Motorbike", "name": "cn"},
+			{"desc": "Segway", "name": "uk"},
 			{"desc": "Ford Fusion", "name":"us"},
-			{"desc": "Segway", "name": "uk"}
+			{"desc": "I will squat around", "name":"ru"}
 		]
 	},
 	{
@@ -81,10 +82,11 @@
 		"text" : "What is your favourite public transit system?",
 		"num" : 8,
 		"options": [
-			{"desc": "T34", "name":"ru"},
+			{"desc": "London Underground", "name": "uk"},
 			{"desc": "Actual Transit", "name": "cn"},
-			{"desc": "A lack thereof", "name":"us"},
-			{"desc": "London Underground", "name": "uk"}
+			{"desc": "T34", "name":"ru"},
+			{"desc": "A lack thereof", "name":"us"}
+			
 		]
 	},
 	{
@@ -92,9 +94,9 @@
 		"text" : "If you could only eat one vegetable, which vegetable would it be?",
 		"num" : 9,
 		"options": [
+			{"desc": "What are vegetables?", "name":"us"},
 			{"desc": "Cabbage", "name":"ru"},
 			{"desc": "Broccoli", "name": "cn"},
-			{"desc": "What are vegetables?", "name":"us"},
 			{"desc": "Brussel Sprouts", "name": "uk"}
 		]
 	},
@@ -103,10 +105,10 @@
 		"text" : "What is your favorite natural disaster?",
 		"num" : 10,
 		"options": [
-			{"desc": "Heat wave", "name":"ru"},
 			{"desc": "Overpopulation", "name": "cn"},
-			{"desc": "Tornado", "name":"us"},
-			{"desc": "Landslide", "name": "uk"}
+			{"desc": "Heat wave", "name":"ru"},
+			{"desc": "Landslide", "name": "uk"},
+			{"desc": "Tornado", "name":"us"}
 		]
 	},
 	{
@@ -114,9 +116,9 @@
 		"text" : "If you could be a type of ice cream, what kind of ice cream would you be?",
 		"num" : 11,
 		"options": [
-			{"desc": "No cream ice cream", "name":"ru"},
-			{"desc": "Green tea", "name": "cn"},
 			{"desc": "Cookies n’ Cream", "name":"us"},
+			{"desc": "Green tea", "name": "cn"},
+			{"desc": "No cream ice cream", "name":"ru"},
 			{"desc": "Peanut butter and salted caramel", "name": "uk"}
 		]
 	},
@@ -125,10 +127,10 @@
 		"text" : "If you could be a type of rock, what kind of rock would you be?",
 		"num" : 12,
 		"options": [
-			{"desc": "Icy rock", "name":"ru"},
+			{"desc": "Canada", "name": "uk"},
 			{"desc": "Limestone", "name": "cn"},
 			{"desc": "The Rock", "name":"us"},
-			{"desc": "Canada", "name": "uk"}
+			{"desc": "Icy rock", "name":"ru"}
 		]
 	},
 	{
@@ -158,8 +160,8 @@
 		"text" : "If you could be a Canadian province, what Canadian province would you be?",
 		"num" : 15,
 		"options": [
-			{"desc": "Nunavut", "name":"ru"},
 			{"desc": "British Columbia", "name": "cn"},
+			{"desc": "Nunavut", "name":"ru"},
 			{"desc": "Ontario", "name":"us"},
 			{"desc": "Nova Scotia", "name": "uk"}
 		]
@@ -171,8 +173,9 @@
 		"options": [
 			{"desc": "Apples", "name":"ru"},
 			{"desc": "Pears", "name": "cn"},
+			{"desc": "Cherries", "name": "uk"},
 			{"desc": "McApples", "name":"us"},
-			{"desc": "Cherries", "name": "uk"}
+			
 		]
 	},
 	{
@@ -180,10 +183,10 @@
 		"text" : "What is your favourite song?",
 		"num" : 17,
 		"options": [
+			{"desc": "Yellow Submarine", "name": "uk"},
 			{"desc": "This is America", "name":"ru"},
-			{"desc": "Xi Yang Yang", "name": "cn"},
 			{"desc": "All-star", "name":"us"},
-			{"desc": "Yellow Submarine", "name": "uk"}
+			{"desc": "Xi Yang Yang", "name": "cn"}
 		]
 	},
 	{
@@ -192,9 +195,11 @@
 		"num" : 18,
 		"options": [
 			{"desc": "007: From Russia With Love", "name":"ru"},
-			{"desc": "Peppa Pig", "name": "cn"},
 			{"desc": "The Emoji Movie", "name":"us"},
-			{"desc": "Planet Earth", "name": "uk"}
+			{"desc": "Planet Earth", "name": "uk"},
+			{"desc": "Peppa Pig", "name": "cn"}
+			
+			
 		]
 	},
 	{
@@ -214,9 +219,9 @@
 		"num" : 20,
 		"options": [
 			{"desc": "The Communist State", "name":"ru"},
-			{"desc": "Plasma", "name": "cn"},
 			{"desc": "Canada", "name":"us"},
-			{"desc": "Liquid", "name": "uk"}
+			{"desc": "Liquid", "name": "uk"},
+			{"desc": "Plasma", "name": "cn"}
 		]
 	}
 ]
