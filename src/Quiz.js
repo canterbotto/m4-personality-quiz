@@ -155,10 +155,10 @@ class Quiz extends Component
             let {us, ru, cn, uk} = this.scores;
             return (
                 <div className="container">
-                    <h3>Russian: {ru} / {this.QUESTIONS-1}</h3>
-                    <h3>American: {us} / {this.QUESTIONS-1}</h3>
-                    <h3>Chinese: {cn} / {this.QUESTIONS-1}</h3>
-                    <h3>British/UK: {uk} / {this.QUESTIONS-1}</h3>
+                    <h3>Russian: {ru} / {this.QUESTIONS}</h3>
+                    <h3>American: {us} / {this.QUESTIONS}</h3>
+                    <h3>Chinese: {cn} / {this.QUESTIONS}</h3>
+                    <h3>British/UK: {uk} / {this.QUESTIONS}</h3>
                 </div>
             )
         }
